@@ -1,0 +1,12 @@
+.done {
+    text-decoration: line-through;
+  }
+
+.important {
+    color: blue;
+    font-size: 20px;
+}
+
+.todoListItemLabel {
+  cursor: pointer;
+}
